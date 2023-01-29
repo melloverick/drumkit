@@ -1,7 +1,7 @@
 body {
   text-align: center;
   background-color: gray;
-  background-image: url(/images/drumkit.jpg);
+  background-image: url(images/drumkit.jpg);
   background-blend-mode: soft-light;
 }
 
